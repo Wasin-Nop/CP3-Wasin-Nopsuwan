@@ -1,9 +1,10 @@
-feng = "Foundation English"
-gb = "General Business"
-itcs = "Introduction to Computer Systems"
-cp = "Computer Programming"
+fe = 75.8
+gb = 52.3
+itcs = 85.2
+cp = 98.6
 print("---Your Score---")
-print(feng,":",75.8,"/100")
-print(gb,":",52.3,"/100")
-print(itcs,":",85.2,"/100")
-print(cp,":",98.6,"/100")
+print("Foundation English :",fe,"/100")
+print("General Business :",gb,"/100")
+print("Introduction to Computer Systems :",itcs,"/100")
+print("Computer Programming :",cp,"/100")
+
