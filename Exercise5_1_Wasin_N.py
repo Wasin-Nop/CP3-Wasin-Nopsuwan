@@ -1,0 +1,6 @@
+a = int(input("Please type the first number that you want to calculate"))
+b = int(input("Please type the second number"))
+print(a,"+",b," =",a+b)
+print(a,"-",b," =",a-b)
+print(a,"*",b," =",a*b)
+print(a,"/",b," =",(a/b))
